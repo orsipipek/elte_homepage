@@ -633,6 +633,9 @@ th {
 .glyphicon-shopping-cart:before {
   content: "\e116";
 }
+.glyphicon-education:before {
+  content: "\e501";
+}
 .glyphicon-folder-close:before {
   content: "\e117";
 }

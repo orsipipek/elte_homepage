@@ -2001,6 +2001,9 @@
 .fa-map-signs:before {
   content: "\f277";
 }
+.fa-education:before {
+  content: "\e501";
+}
 .fa-map-o:before {
   content: "\f278";
 }
